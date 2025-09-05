@@ -7,6 +7,23 @@ a {
 	color: #ccc;
 }
 
+h5 {
+	font-size: 0.75rem;
+	padding-top: 10px;
+	border-top: solid gray 1px;
+}
+
+h6 {
+	font-size: 0.6rem;
+	padding-top: 5px;
+	border-top: solid #ddd 1px;
+	color: #999;
+}
+
+ul {
+	list-style-type: square;
+}
+
 table {
 	width: 600px
 }
