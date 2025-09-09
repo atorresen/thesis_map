@@ -10,7 +10,8 @@ a {
 h5 {
 	font-size: 0.75rem;
 	padding-top: 10px;
-	border-top: solid gray 1px;
+	margin-top: 50px;
+	border-top: solid gray 3px;
 }
 
 h6 {
@@ -37,6 +38,14 @@ td {
 	padding: 10px;
 	text-align: center;
 	max-width: 150px;
+}
+
+.button {
+	border: solid #ddd 2px;
+	padding: 5px;
+}
+.button:hover {
+	border: solid #aaa 3px;
 }
 
 /* Tooltip container */
