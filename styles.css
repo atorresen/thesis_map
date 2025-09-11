@@ -1,6 +1,7 @@
 body {
 	font-family: monospace;
-	margin: 20px;
+	margin: 20px 40px;
+	max-width: 1000px;
 }
 
 a {
