@@ -26,6 +26,11 @@ ul {
 	list-style-type: square;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 table {
 	width: 600px
 }
