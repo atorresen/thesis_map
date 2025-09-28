@@ -39,20 +39,16 @@ table {
 	width: 600px
 }
 
-table, td {
+table {
 	border: solid black 2px;
 }
 
 .map {
+	border: solid black 2px;
 	height: 50px;
 	padding: 10px;
 	text-align: center;
 	max-width: 150px;
-}
-
-.noborder {
-	border: 0;
-	padding: 10px;
 }
 
 .button {
